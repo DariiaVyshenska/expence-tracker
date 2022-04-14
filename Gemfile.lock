@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    io-console (0.5.11)
+    pg (1.3.5)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  io-console
+  pg
+
+RUBY VERSION
+   ruby 3.0.2p107
+
+BUNDLED WITH
+   2.3.3
