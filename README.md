@@ -1,3 +1,3 @@
 # Expence Tracker
 
-Command line tool for tracking personal expences.
+Command line tool for tracking personal expenses.
